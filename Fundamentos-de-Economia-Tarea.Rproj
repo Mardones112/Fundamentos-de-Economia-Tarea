@@ -1,0 +1,145 @@
+---
+title: "Participación Reflexiva"
+author: "Cristian Mardones"
+date: "202020: `r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Semana 3
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+La demanda es un factor fundamental dentro de el equilibrio de mercado ya que define la cantidad de bienes y servicios que son adquiridos por consumidores a cierto precio, teniendo en cuenta la demanda de cierto servicio puedo encontrar un momento en que la demanda de aquel servicio este baja para acceder a el a un menor precio
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Es muy relevante ya que aprender cómo esta funciona me permitirá predecir un cambio en el equilibrio y asi administrar mi consumo de la manera mas eficiente posible
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+## Semana 4
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+Al igual que la demanda la oferta es muy importante en el equilibrio de un mercado, siendo esta quien define la cantidad de productos o servicios que los productores están dispuestos a vender esto se equilibra con la demanda para darnos un resultado de precio y cantidad óptimos para productor y consumidor 
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Es muy relevante ya que esta me ayudara a entender y administrar los costos de producción con el equilibrio de mercado actual
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+## Semana 7
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+Los ingresos fiscales tienen un gran impacto en mi cotidianidad ya que de muchos servicios que tenemos a disposición muchos son subsidiados gracias a estos ingresos y la manera de mejorarlos sería comprando un producto o servicio aun cuando se le han subido los impuestos a ese servicio o producto
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Tienen mucha relevancia ya que como ingeniero en mi futuro será importante entender la posibilidad de subsidios a mi rubro empresarial 
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+## Semana 8
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+El comercio internacional es un factor importante dentro de la economia de un pais ya que eso ayuda a bajar los costos de producción de las empresas permitiendo servicios y productos a precios mas accesibles
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Tiene mucha importancia ya que en el futuro será de gran ayuda tener a acceso a productos de forma más barata que produciéndolos uno mismo
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+## Semana 10
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+Las externalidades tiene un gran impacto en la demanda de un producto o servicio sin embargo este puede ser tanto positivo como negativo gracias a estas se pueden restringir servicios y productos dañinos o moralmente malos gracias a haber impulsado politicas públicas para regularlos
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Es importante entender estos factores además del teorema de coase que me enseña a poder resolver externalidades de forma privada mientras valgan la pena los costos de negociación
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+Me sirvio para terminar de enterder lo que significa la contribucion y mi papel en ella
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+Debo ser capaz de tener la moralidad de no aprovecharme de las otras personas y de poder confiar en la contribución de los demás y comunicarme con ellos para ambos poder sacar el mejor provecho del financiamiento
+
+## Semana 12
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+La demanda de trabajo y el desempleo son factores muy debatidos hoy en dia con el constante cambio tecnológico aumentando el desempleo en ciertos trabajos disminuye el costo marginal para las empresas sin embargo es necesario saber aprovechar estos avances para crear nuevos empleos y a la vez disminuir el costo marginal
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Son muy importantes ya que es necesario entender como afectan la discriminacion laboral y la desigualdad a la economía de un país para asi desarrollar estrategias que en un futuro ayuden a disminuir ambos factores
+
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+## Semana 13
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+El riesgo tiene un impacto bastante grande en las decisiones que tomamos sin embargo existen seguros que ayudan a disminuir el riesgo que tomamos asi puedo tomar decisiones mas riesgosas con mayor facilidad y seguridad
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Como ingeniero debo saber reconocer y administrar los riesgos de proceder en ciertas actividades
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+Me sirvio para entender como administrar mis recursos para analizando la situacion y el riesgo que conlleva cada decision
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+Debo ser capaz de administrar los riesgos que estoy tomando analizando las circunstancias y tomando la mejor decisión en términos de seguridad y favorabilidad
